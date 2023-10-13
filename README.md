@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **React, php, Laravel.**
 
-- 📝 I regularly write articles on [php and laravel](php and laravel)
-
 - 💬 Ask me about **react, php, laravel**
 
 - 📫 How to reach me **odumodamilolapeacejamb2020@gmail.com**
