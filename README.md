@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odumodamilola" alt="odumodamilola" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/odumodamilola" target="blank"><img src="https://img.shields.io/twitter/follow/odumodamilola?logo=twitter&style=for-the-badge" alt="odumodamilola" /></a> </p>
+<p align="left"> <a href="https://twitter.com/damilolaodumo" target="blank"><img src="https://img.shields.io/twitter/follow/odumodamilola?logo=twitter&style=for-the-badge" alt="odumodamilola" /></a> </p>
 
 - 🔭 I’m currently working on **something amazing**
 
