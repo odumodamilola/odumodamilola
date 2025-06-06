@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damilola Peace</h1>
-<h3 align="center">A passionate Junior Web developer from Nigeria.</h3>
+<h3 align="center">A Creative Software Engineer from Nigeria.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odumodamilola" alt="odumodamilola" /></a> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **something amazing**
 
-- 🌱 I’m currently learning **php and laravel**
+- 🌱 I’m currently learning **Java, Python, Dev Ops**
 
 - 👯 I’m looking to collaborate with **React,php,laravel.**
 
-- 🤝 I’m looking for help with **React, php, Laravel.**
+- 🤝 I’m looking for help with **React, php, node.js, typescript and Next js.**
 
-- 💬 Ask me about **react, php, laravel**
+- 💬 Ask me about **javascript, node js, typescript, react, php, laravel**
 
-- 📫 How to reach me **odumodamilolapeacejamb2020@gmail.com**
+- 📫 How to reach me **damilolapeace.career@gmail.com**
 
-- ⚡ Fun fact **I'm passsionate about learning, open to speak with, i havea strong communication skills and i make new friends each day.**
+- ⚡ Fun fact **I'm passsionate about learning, open to speak with senior software engineers, i havea strong communication skills and i make new friends each day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
