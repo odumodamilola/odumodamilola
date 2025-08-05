@@ -1,7 +1,7 @@
-# Hi 👋, I'm Odumo Damilola Peace  
+# Hi 👋, I'm Damilola Odumo 
 ## Software Engineer from Nigeria
 
-**Software Engineer** with 4 years of experience crafting scalable web applications using **JavaScript (React, Node.js, TypeScript),Python and Flask, PHP, and Laravel**. I've led feature development that boosted performance and engagement—and I thrive in collaborative Agile teams. Passionate about DevOps and backend engineering.
+**Full-Stack Software Engineer** and Computer Science student with expertise in modern web technologies including **JavaScript (React, Node.js, Express), Python (Flask), Java, PHP (Laravel), and TypeScript**. Experienced with cloud-native architectures using **Supabase, PostgreSQL, and DevOps practices**. Passionate about building scalable, production-ready applications and contributing to open-source projects.
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,13 +11,14 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **innovative full-stack and DevOps projects**
-- 🌱 Learning **Java, Python, AWS, and Kubernetes**
-- 👯 Open to collaborating on **React, TypeScript, Laravel, and Node.js projects**
-- 🤝 Looking for opportunities in **React, PHP, Node.js, TypeScript, and Next.js**
-- 💬 Ask me about **frontend architecture, API design, performance optimization**
+- 🔭 Currently working on **full-stack applications with modern cloud infrastructure**
+- 🌱 Advancing in **DevOps, Kubernetes, Docker, and cloud-native development**
+- 👯 Open to collaborating on **React, Node.js, Python Flask, Java, and cloud projects**
+- 🤝 Seeking **software engineering roles and senior developer mentorship**
+- 💬 Ask me about **full-stack development, API design, database optimization, and DevOps**
+- 🎓 **Computer Science** student at **Fountain University, Osogbo**
 - 📫 Reach me at **damilolapeace.career@gmail.com**
-- ⚡ Fun fact: **I love building new tech friendships every day and improving code quality through strong communication**
+- ⚡ Fun fact: **I enjoy contributing to open-source projects and solving complex algorithmic challenges**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -29,22 +30,25 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
 </p>
 
-**Frontend & Styling:**
+**Frontend & Mobile:**
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -59,8 +63,30 @@
   </a>
 </p>
 
-**Databases & DevOps:**
+**Backend & Frameworks:**
 <p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+</p>
+
+**Databases & Cloud:**
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -70,8 +96,24 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
+</p>
+
+**DevOps & Tools:**
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
 
@@ -97,6 +139,20 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realdamilolapeace" height="30" width="40" />
   </a>
 </p>
+
+## 🎓 Education
+
+**Bachelor of Science, Computer Science**  
+Fountain University, Osogbo, Nigeria | 2022 - 2026 (Expected)
+
+## 🚀 Core Competencies
+
+- **Full-Stack Development**: React, Node.js, Express, Python Flask, PHP Laravel
+- **Database Management**: PostgreSQL, Supabase, MySQL, MariaDB, SQL Server
+- **Cloud & DevOps**: Docker, Kubernetes, AWS, CI/CD, Linux
+- **Programming Languages**: JavaScript, TypeScript, Python, Java, PHP, C
+- **Software Architecture**: RESTful APIs, Microservices, Database Design
+- **Version Control**: Git, GitHub, Collaborative Development
 
 ## 📊 GitHub Stats
 
